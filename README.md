@@ -1,3 +1,6 @@
+# Important Note
+I've left my code in the ipython notebooks.  Feel free to copy it and use as desired.
+
 # tfkld_sent_vectorize
 Use tf-kld to vectorize sentences.  Use PCA to compress the vector to a reasonable size while maintaining accuracy. Utility functions to use the vector.
 
